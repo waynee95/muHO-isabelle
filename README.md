@@ -1,2 +1,8 @@
 # muHO-isabelle
-Formalization of the Abstract Higherr-Order Fixpoint in Isabelle/HOL
+
+> Formalization of the Abstract Higher-Order Fixpoint in Isabelle/HOL
+
+## References
+
+[1] F. Bruse, J. Kreiker, M. Lange, and M. Sälzer, “Local higher-order fixpoint iteration,”
+Information and Computation, vol. 289, p. 104963, 2022.
