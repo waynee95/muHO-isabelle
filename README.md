@@ -1,6 +1,6 @@
 # muHO-isabelle
 
-> Formalization of the Abstract Higher-Order Fixpoint in Isabelle/HOL
+> Formalization of the Abstract Higher-Order Fixpoint Algebra in Isabelle/HOL
 
 ## References
 
